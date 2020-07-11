@@ -159,16 +159,3 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-.offering{
-  height: 100%;
-  width: 100%;
-  background-color: black;
-  font-family: FORTE;
-  color: white;
-  font-weight: bolder;
-  font-size: 48px;
-}
-table img{
-  height: 300px;
-  width: 600px;
-}
